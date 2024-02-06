@@ -1,6 +1,6 @@
 Rotaract Society Website
 Overview
-Welcome to the official website of the Rotaract Society at [Your College Name]. This website serves as a platform to showcase our club's activities, projects, and events. It is designed to provide information about the Rotaract Society, our mission, and how you can get involved. Whether you're a current member, a prospective member, or just curious about our activities, we hope you find this website informative and engaging.
+Welcome to the official website of the Rotaract Society at Thapar University Patiala. This website serves as a platform to showcase our club's activities, projects, and events. It is designed to provide information about the Rotaract Society, our mission, and how you can get involved. Whether you're a current member, a prospective member, or just curious about our activities, we hope you find this website informative and engaging.
 
 Table of Contents
 About Us
