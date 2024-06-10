@@ -29,7 +29,8 @@ Ready to make a difference? Join us in our mission to serve the community and cr
 Social Media
 Connect with us on social media to stay updated on the latest news, events, and projects:
 
-Facebook
-Instagram
-Twitter
-Thank you for visiting the Rotaract Society website. We appreciate your interest and support in our journey towards service and community building
+Glimpses
+![WhatsApp Image 2024-06-10 at 19 38 16_c408d370](https://github.com/Lishika3009/rotaractwebsite/assets/129992113/a6f7971a-04ee-48c2-ac32-ff2a84e00b0a)
+![WhatsApp Image 2024-06-10 at 19 37 24_4fd40638](https://github.com/Lishika3009/rotaractwebsite/assets/129992113/e1c223ba-6e5a-4565-8f1a-5695bba458db)
+
+
